@@ -2,7 +2,7 @@
 
 /**
  * hash_table_print - outputs a hash table.
- * @htbl: pointer to the hash table to output.
+ * @ht: pointer to the hash table to output.
  *
  * Description: Key/value pairs are printed in the order
  *              they appear in the array of hash table.
